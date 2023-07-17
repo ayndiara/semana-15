@@ -1,0 +1,26 @@
+.homeContainer {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 4rem;
+    padding: 10rem;
+    background-color: #a58e74;
+  }
+  
+  .cardContainer {
+    text-align: center;
+  }
+  
+  .cardTitle {
+    padding: 1rem;
+    font-size: 2rem;
+    color: #f1f2f5;
+  }
+  
+  .cardDescription {
+    font-size: 1rem;
+    color: #080808;
+  }
+  
+  
+
+
